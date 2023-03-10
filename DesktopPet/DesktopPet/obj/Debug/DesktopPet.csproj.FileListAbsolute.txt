@@ -1,0 +1,10 @@
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\bin\Debug\DesktopPet.exe.config
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\bin\Debug\DesktopPet.exe
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\bin\Debug\DesktopPet.pdb
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.csproj.AssemblyReference.cache
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.Form1.resources
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.Properties.Resources.resources
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.csproj.GenerateResource.cache
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.csproj.CoreCompileInputs.cache
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.exe
+C:\Users\forja\source\repos\DesktopPet\DesktopPet\obj\Debug\DesktopPet.pdb

@@ -1,0 +1,10 @@
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\bin\Debug\HW03_09156146.exe.config
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\bin\Debug\HW03_09156146.exe
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\bin\Debug\HW03_09156146.pdb
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.csproj.AssemblyReference.cache
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.Properties.Resources.resources
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.csproj.GenerateResource.cache
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.csproj.CoreCompileInputs.cache
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.exe
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.pdb
+C:\Users\forja\OneDrive\桌面\c#\HW03_09156146\HW03_09156146\obj\Debug\HW03_09156146.Form1.resources

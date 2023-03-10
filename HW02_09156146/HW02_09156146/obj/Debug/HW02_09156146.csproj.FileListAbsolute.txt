@@ -1,0 +1,10 @@
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\bin\Debug\HW02_09156146.exe.config
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\bin\Debug\HW02_09156146.exe
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\bin\Debug\HW02_09156146.pdb
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.csproj.AssemblyReference.cache
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.Properties.Resources.resources
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.csproj.GenerateResource.cache
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.csproj.CoreCompileInputs.cache
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.exe
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.pdb
+C:\Users\forja\source\repos\HW02_09156146\HW02_09156146\obj\Debug\HW02_09156146.HW02_09156146.resources

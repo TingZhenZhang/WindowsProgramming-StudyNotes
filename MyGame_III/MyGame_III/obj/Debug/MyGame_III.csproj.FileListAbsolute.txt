@@ -1,0 +1,10 @@
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.csproj.AssemblyReference.cache
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_II.Form1.resources
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.Properties.Resources.resources
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.csproj.GenerateResource.cache
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.csproj.CoreCompileInputs.cache
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\bin\Debug\MyGame_III.exe.config
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\bin\Debug\MyGame_III.exe
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\bin\Debug\MyGame_III.pdb
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.exe
+C:\Users\forja\OneDrive\桌面\c#\MyGame_III\MyGame_III\obj\Debug\MyGame_III.pdb
